@@ -8,4 +8,4 @@ In this project, I created a Neural Network Model to identify insincere question
 rather than look for helpful answers - on the website Quora, that provided the
 dataset on a Kaggle competition.
 
-The project is divided in two notebooks: <i>Quora kernel</i> shows the preprocessing and training phase. “Analysis” one show posterior analysis on the predicted results and the whole data.
+The project is divided in two notebooks: <i>Quora kernel</i> shows the preprocessing and training phase. <i>Analysis</i> one shows posterior analysis on the predicted results and the whole data.
