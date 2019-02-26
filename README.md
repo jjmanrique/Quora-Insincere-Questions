@@ -19,5 +19,5 @@ https://www.kaggle.com/c/quora-insincere-questions-classification
 * Python 3.7
 * Numpy
 * Scikit-learn
-* Pytorch
 * TensorFlow
+* Pytorch
